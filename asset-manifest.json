@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ec8c353.chunk.css",
-    "main.js": "/static/js/main.e3d51bc5.chunk.js",
-    "main.js.map": "/static/js/main.e3d51bc5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.194b302f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.194b302f.js.map",
-    "static/js/2.57ebc96b.chunk.js": "/static/js/2.57ebc96b.chunk.js",
-    "static/js/2.57ebc96b.chunk.js.map": "/static/js/2.57ebc96b.chunk.js.map",
-    "static/js/3.c0c52c32.chunk.js": "/static/js/3.c0c52c32.chunk.js",
-    "static/js/3.c0c52c32.chunk.js.map": "/static/js/3.c0c52c32.chunk.js.map",
+    "main.css": "/static/css/main.01348fcf.chunk.css",
+    "main.js": "/static/js/main.b3945292.chunk.js",
+    "main.js.map": "/static/js/main.b3945292.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b0dba36.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b0dba36.js.map",
+    "static/js/2.a0092377.chunk.js": "/static/js/2.a0092377.chunk.js",
+    "static/js/2.a0092377.chunk.js.map": "/static/js/2.a0092377.chunk.js.map",
+    "static/js/3.25635216.chunk.js": "/static/js/3.25635216.chunk.js",
+    "static/js/3.25635216.chunk.js.map": "/static/js/3.25635216.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1ec8c353.chunk.css.map": "/static/css/main.1ec8c353.chunk.css.map",
-    "static/js/2.57ebc96b.chunk.js.LICENSE.txt": "/static/js/2.57ebc96b.chunk.js.LICENSE.txt",
+    "static/css/main.01348fcf.chunk.css.map": "/static/css/main.01348fcf.chunk.css.map",
+    "static/js/2.a0092377.chunk.js.LICENSE.txt": "/static/js/2.a0092377.chunk.js.LICENSE.txt",
     "static/media/aboutme_image.54ca13d9.png": "/static/media/aboutme_image.54ca13d9.png",
     "static/media/android_development_header_image.c6fee30c.svg": "/static/media/android_development_header_image.c6fee30c.svg",
-    "static/media/arrow_forward_white_24dp.ae50cd37.svg": "/static/media/arrow_forward_white_24dp.ae50cd37.svg",
+    "static/media/ViewMyResume.css": "/static/media/arrow_forward_blue_24dp.ae50cd37.svg",
     "static/media/github.255db585.svg": "/static/media/github.255db585.svg",
     "static/media/gmail.cf6e9da6.svg": "/static/media/gmail.cf6e9da6.svg",
     "static/media/graphics_design_header_image.6e95653d.svg": "/static/media/graphics_design_header_image.6e95653d.svg",
@@ -24,9 +24,9 @@
     "static/media/ui_design_header_image.8ee6798a.svg": "/static/media/ui_design_header_image.8ee6798a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.194b302f.js",
-    "static/js/2.57ebc96b.chunk.js",
-    "static/css/main.1ec8c353.chunk.css",
-    "static/js/main.e3d51bc5.chunk.js"
+    "static/js/runtime-main.8b0dba36.js",
+    "static/js/2.a0092377.chunk.js",
+    "static/css/main.01348fcf.chunk.css",
+    "static/js/main.b3945292.chunk.js"
   ]
 }
