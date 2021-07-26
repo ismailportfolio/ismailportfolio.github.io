@@ -1,0 +1,10 @@
+.ContactLinks{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+}
+
+.ContactLinks img{
+    width: 24px;
+}

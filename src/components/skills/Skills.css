@@ -1,0 +1,13 @@
+.Skills{
+    height: 100vh;
+    width: 100%;
+}
+
+.SkillsContainer{
+    padding: 30px;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 300px));
+    justify-content: center;
+    gap:30px;
+    padding-bottom: 80px;
+}

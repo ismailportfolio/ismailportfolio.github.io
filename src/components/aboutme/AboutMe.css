@@ -1,0 +1,24 @@
+.AboutMe{
+    height: 100vh;
+}
+
+.Content{
+    padding: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.aboutMeText{
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    font-family: 'Open Sans';
+    color: #343434;
+    display: inline;
+}
+
+.myImage{
+    width: 400px;
+    height: fit-content;
+}

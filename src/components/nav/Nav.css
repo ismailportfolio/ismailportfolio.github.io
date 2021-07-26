@@ -1,0 +1,16 @@
+.Nav{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.Nav .heading{
+    flex-grow: 1;
+    font-size: 2em;
+    font-weight: bold;
+    color:#343434;
+    margin: 0;
+    font-family: 'Josefin Sans';
+}
