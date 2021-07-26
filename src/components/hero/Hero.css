@@ -1,31 +1,42 @@
-.Hero{
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+.Hero {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
-.Container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-grow: 1;
-    justify-content: center;
-    gap: 3em;
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: center;
+  gap: 3em;
 }
 
-.title{
-    font-size: 3em;
-    font-family: 'Josefin Sans';
-    color:#343434;
-    text-align: center;
-    font-weight: 200;
-    margin: 0;
+.title {
+  font-size: 3rem;
+  font-family: "Josefin Sans";
+  color: #343434;
+  text-align: center;
+  font-weight: 200;
+  margin: 0;
 }
 
-.subtitle{
-    font-size: 1.3em;
-    color: #343434;
-    text-align: center;
-    font-family: 'Open Sans';
+.subtitle {
+  font-size: 1.3rem;
+  color: #343434;
+  text-align: center;
+  font-family: "Open Sans";
+  max-width: 45ch;
+}
+
+@media screen and (max-width: 720px) {
+  .title {
+    font-size: 2rem;
+  }
+  .subtitle {
+    font-size: 1.1rem;
+    margin: 1.2rem;
+  }
 }

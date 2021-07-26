@@ -1,24 +1,38 @@
-.AboutMe{
-    height: 100vh;
+.AboutMe {
+  min-height: 100vh;
 }
 
-.Content{
-    padding: 30px;
+.Content {
+  padding: 30px;
+  gap: 20px;
+}
+
+.aboutMeText {
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 1.2rem;
+  line-height: 1.8em;
+  font-family: "Open Sans";
+  color: #343434;
+  display: inline;
+}
+
+.myImage {
+  width: 40%;
+  max-width: 400px;
+  min-width: 250px;
+  float: right;
+}
+
+@media screen and (max-width: 480px) {
+  .Content {
     display: flex;
-    gap: 20px;
-}
-
-.aboutMeText{
-    margin-top: 0;
-    padding-top: 0;
-    font-size: 1.2em;
-    line-height: 1.8em;
-    font-family: 'Open Sans';
-    color: #343434;
-    display: inline;
-}
-
-.myImage{
-    width: 400px;
-    height: fit-content;
+    flex-direction: column;
+  }
+  .myImage {
+    align-self: center;
+  }
+  .aboutMeText {
+    font-size: 1.1rem;
+  }
 }
